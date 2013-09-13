@@ -26,6 +26,6 @@ ShootPlane - 仿微信打飞机游戏的java实现
         使用启动脚本或者java -jar ShootPlane.jar可以运行程序
 	
  
-##其余的细节部分，将逐步在项目的WIKI里面发布！谢谢关注，欢迎fork！
+##其余的细节部分，将逐步在[项目的WIKI](http://git.oschina.net/jemygraw/ShootPlane/wikis/home)里面发布！谢谢关注，欢迎fork！
 
 ##支持我，可以为我付点小费！https://me.alipay.com/jemygraw
